@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![Metrics](https://github.com/msk-bd/my-git-art/blob/main/github-metrics.svg)
 
+![Github Overview](https://github.com/msk-bd/my-git-art/blob/main/github-metrics.svg)
 
-![Languages Stats](https://github.com/msk-bd/my-git-art/blob/main/github-metrics.svg)
