@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 ![Github Overview](https://github.com/msk-bd/my-git-art/blob/main/github-metrics.svg)
 
+![Github Language](https://raw.githubusercontent.com/msk-bd/my-git-art/main/languages.svg)
