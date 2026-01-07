@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Git Artwork](https://github.com/msk-bd/my-git-art/blob/main/gitartwork.svg)
+
+![Metrics](https://github.com/msk-bd/my-git-art/blob/main/github-metrics.svg)
